@@ -1,7 +1,5 @@
 // This is a JavaScript file
 
-// This is a JavaScript file
-
 function mostrarMapa(lat, long){
   L.mapquest.key = 'wc5KZEfZz1qUJXbvGGc0trOSKgoyeALk';
 
